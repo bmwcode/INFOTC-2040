@@ -1,0 +1,11 @@
+C:\Users\willi\OneDrive\Documents\INFOTC2040\Module 4 (Dog)\bin\Debug\netcoreapp3.1\Module 4 (Dog).exe
+C:\Users\willi\OneDrive\Documents\INFOTC2040\Module 4 (Dog)\bin\Debug\netcoreapp3.1\Module 4 (Dog).deps.json
+C:\Users\willi\OneDrive\Documents\INFOTC2040\Module 4 (Dog)\bin\Debug\netcoreapp3.1\Module 4 (Dog).runtimeconfig.json
+C:\Users\willi\OneDrive\Documents\INFOTC2040\Module 4 (Dog)\bin\Debug\netcoreapp3.1\Module 4 (Dog).runtimeconfig.dev.json
+C:\Users\willi\OneDrive\Documents\INFOTC2040\Module 4 (Dog)\bin\Debug\netcoreapp3.1\Module 4 (Dog).dll
+C:\Users\willi\OneDrive\Documents\INFOTC2040\Module 4 (Dog)\bin\Debug\netcoreapp3.1\Module 4 (Dog).pdb
+C:\Users\willi\OneDrive\Documents\INFOTC2040\Module 4 (Dog)\obj\Debug\netcoreapp3.1\Module 4 (Dog).csprojAssemblyReference.cache
+C:\Users\willi\OneDrive\Documents\INFOTC2040\Module 4 (Dog)\obj\Debug\netcoreapp3.1\Module 4 (Dog).AssemblyInfoInputs.cache
+C:\Users\willi\OneDrive\Documents\INFOTC2040\Module 4 (Dog)\obj\Debug\netcoreapp3.1\Module 4 (Dog).AssemblyInfo.cs
+C:\Users\willi\OneDrive\Documents\INFOTC2040\Module 4 (Dog)\obj\Debug\netcoreapp3.1\Module 4 (Dog).dll
+C:\Users\willi\OneDrive\Documents\INFOTC2040\Module 4 (Dog)\obj\Debug\netcoreapp3.1\Module 4 (Dog).pdb
